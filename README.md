@@ -4,7 +4,7 @@ I work across the full stack, with a focus on distributed systems, event-driven 
 
 🛠️ What I work with
 Languages · C# · Python · TypeScript · SQL/Oracle/Postgresql 
-Backend · .NET 9 · ASP.NET Core · Microservices · Event-Driven Architecture · CQRS
+Backend · .NET 9 and NodeJs · ASP.NET Core · Microservices · Event-Driven Architecture · CQRS
 Frontend · Next.js · React
 Cloud · Azure Functions · Service Bus · Event Hubs · Cosmos DB · AKS · Container Apps
 AI · Azure OpenAI · Semantic Kernel · RAG · Vector Search
