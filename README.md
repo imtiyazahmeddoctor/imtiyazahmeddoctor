@@ -29,5 +29,5 @@ Docker & Kubernetes
 📫 Get in touch
 
 Email · imtiyaz.n.ahmed@gmail.com
-LinkedIn · [add once URL confirmed]
+LinkedIn · -
 Location · Dubai, UAE
