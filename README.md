@@ -3,7 +3,7 @@ Senior software engineer based in Dubai with 10+ years building production .NET 
 I work across the full stack, with a focus on distributed systems, event-driven architectures, and — increasingly — integrating large language models into real business workflows.
 
 🛠️ What I work with
-Languages · C# · Python · TypeScript · SQL
+Languages · C# · Python · TypeScript · SQL/Oracle/Postgresql 
 Backend · .NET 9 · ASP.NET Core · Microservices · Event-Driven Architecture · CQRS
 Frontend · Next.js · React
 Cloud · Azure Functions · Service Bus · Event Hubs · Cosmos DB · AKS · Container Apps
